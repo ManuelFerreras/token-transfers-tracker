@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+{repoURl}.git"
+    "url": "git+https://github.com/ManuelFerreras/token-transfers-tracker.git"
   },
   "keywords": [
     "suku"
@@ -38,8 +38,8 @@
     "typescript": "^5.1.6"
   },
   "bugs": {
-    "url": "{repoURl}/issues"
+    "url": "https://github.com/ManuelFerreras/token-transfers-tracker/issues"
   },
-  "homepage": "{repoURl}#readme",
+  "homepage": "https://github.com/ManuelFerreras/token-transfers-tracker#readme",
   "dependencies": {}
 }
